@@ -7,5 +7,5 @@ function discountTicket(ticketPrice){
   return ticketPrice * .8
 }
 function tweetReply(name){
-  return `Hey ${name}, thanks so much for the support! I really apreciate it!`
+  return 'Hey Bruno ' + name + `, thanks so much for the support! I really apreciate it!'
 }
